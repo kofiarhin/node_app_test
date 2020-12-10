@@ -1,0 +1,42 @@
+html,
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  border: none;
+  outline: none;
+}
+
+form {
+  width: 540px;
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+input {
+  display: block;
+  width: 100%;
+  padding: 0.8rem 0rem;
+  text-indent: 20px;
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+button {
+  display: block;
+  padding: 1rem;
+  background: black;
+  color: white;
+  width: 100%;
+  cursor: pointer;
+}
